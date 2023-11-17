@@ -2,17 +2,13 @@
 mysql, express를 활용하여 회원가입, 로그인, 상품 괸련 API 작업했습니다.
 
 # 환경변수
-#config
-MYSQL_USERNAME
-MYSQL_PASSWORD
-MYSQL_DATABASE
-MYSQL_HOST
-#jwt
-SECRET_KEY
-
-- DB_URL
-- JWT_SECRET
-- 그 밖의 사용한 환경변수를 나열해 주세요.
+-#config
+-MYSQL_USERNAME
+-MYSQL_PASSWORD
+-MYSQL_DATABASE
+-MYSQL_HOST
+-#jwt
+-SECRET_KEY
 
 # API 명세서 URL
 https://docs.google.com/spreadsheets/d/1NR45O5U4GXVWiVOYbiXLUGJMm26h89MpxxBfGvU5Ilk/edit?usp=sharing
