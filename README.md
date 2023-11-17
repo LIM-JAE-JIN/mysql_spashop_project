@@ -4,13 +4,12 @@ mysql, express를 활용하여 회원가입, 로그인, 상품 괸련 API 작업
 
 # 환경변수
 
-- config
+- #config
 - MYSQL_USERNAME
 - MYSQL_PASSWORD
 - MYSQL_DATABASE
 - MYSQL_HOST
-
-- jwt
+- #jwt
 - SECRET_KEY
 
 # API 명세서 URL
