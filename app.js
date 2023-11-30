@@ -7,7 +7,7 @@ const app = express();
 const port = 3016;
 
 
-// Sequelize와 데이터베이스 연결 확인
+// Sequelize와 데이터베이스 연결 확인ㅎㅎ
 db.sequelize.authenticate()
   .then(() => {
     console.log('DB연결성공');
